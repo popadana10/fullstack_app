@@ -42,7 +42,8 @@ h2 {
   border-radius: 5px;
   padding: 10px;
   border: none;
-  background-color: #ececec;
+  background-color: #f0f0f0;
+  color: #8f8f91;
 }
 
 .button {
@@ -58,9 +59,9 @@ h2 {
 }
 
 .button:hover {
-  background-color: #ffffff;
-  border: 1px solid #5476f0;
-  color: #4a7bed;
+  background-color: #6c95f5;
+  border: none;
+  color: #ffffff;
   
 }
 
